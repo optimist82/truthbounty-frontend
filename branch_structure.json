@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-606-ui-fe-036-build-public-service-status-adapter",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-606-ui-fe-036-build-public-service-status-adapter": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-606-ui-fe-036-build-public-service-status-adapter",
+    "origin"
+  ]
+}
